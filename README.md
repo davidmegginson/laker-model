@@ -8,7 +8,7 @@ This one is loosely modelled on the famous _Edmund Fitzgerald,_ but is not meant
 
 ![Model with basic colouring](https://github.com/user-attachments/assets/57671698-4d01-46cd-88c7-80ebf6e9da60)
 
-This model is intended initially for use in the open-source FlightGear flight simulator, but is free for anyone to use.
+This model is intended initially for use in the open-source [FlightGear flight simulator](https://flightgear.org), but is free for anyone to use.
 
 
 ## Changes
