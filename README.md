@@ -15,6 +15,7 @@ This model is intended initially for use in the open-source FlightGear flight si
 
 ### 2024-08-30
 
+- added AC3D export for FlightGear
 - added basic colouring
 - mesh is complete (except for maybe a rudder); colours and textures still to come
 
