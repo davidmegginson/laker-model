@@ -13,6 +13,10 @@ This model is intended initially for use in the open-source [FlightGear flight s
 
 ## Changes
 
+### 2024-08-31
+
+- started texturing model
+
 ### 2024-08-30
 
 - added AC3D export for FlightGear
