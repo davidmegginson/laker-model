@@ -6,7 +6,7 @@ https://en.wikipedia.org/wiki/Lake_freighter
 
 This one is loosely modelled on the famous _Edmund Fitzgerald,_ but is not meant to be a precise replica.
 
-![Model with initial textures](https://github.com/user-attachments/assets/d18422af-1966-4cc9-be3f-1fe63c98a50b)
+![Screenshot of the model in Blender](https://github.com/user-attachments/assets/bf0b1687-6553-4d26-aa1b-e4da03164126)
 
 This model is intended initially for use in the open-source [FlightGear flight simulator](https://flightgear.org), but is free for anyone to use.
 
