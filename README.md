@@ -15,7 +15,7 @@ This model is intended initially for use in the open-source [FlightGear flight s
 
 ### 2024-08-31
 
-- started texturing model
+- added basic textures to model (not super accurate, but sufficient)
 
 ### 2024-08-30
 
