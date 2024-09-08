@@ -73,7 +73,7 @@ name "Bulk load #1"
 data 8
 Cube.005
 crease 40.0
-texture "laker.png"
+texture "laker-crane.png"
 numvert 24
 25.73609 10.47218 7.49034
 25.73609 10.47218 -7.52533
@@ -225,7 +225,7 @@ name "Bulk load #1.001"
 data 8
 Cube.008
 crease 40.0
-texture "laker.png"
+texture "laker-crane.png"
 numvert 24
 -61.70461 10.47218 7.49032
 -61.70461 10.47218 -7.52535
@@ -377,7 +377,7 @@ name "Bulk load #2"
 data 8
 Cube.007
 crease 40.0
-texture "laker.png"
+texture "laker-crane.png"
 numvert 22
 -18.80958 10.47218 7.49033
 -18.80958 10.47218 -7.52533
@@ -527,7 +527,7 @@ name "Crew quarters"
 data 8
 Cube.013
 crease 40.0
-texture "laker.png"
+texture "laker-crane.png"
 numvert 44
 -71.43481 8.99776 -8.49966
 -71.43481 10.59507 -8.49966
@@ -844,7 +844,7 @@ name "Deck crane"
 data 8
 Cube.004
 crease 40.0
-texture "laker.png"
+texture "laker-crane.png"
 numvert 24
 -65.37023 12.09193 -1.32606
 -60.06297 16.34429 0.25365
@@ -1061,7 +1061,7 @@ name "Hull"
 data 4
 Cube
 crease 30.0
-texture "laker.png"
+texture "laker-crane.png"
 numvert 93
 67.90773 5.88431 11.02422
 67.90773 0.51674 11.02422
@@ -2150,7 +2150,7 @@ name "Stack"
 data 8
 Cylinder
 crease 40.0
-texture "laker.png"
+texture "laker-crane.png"
 numvert 16
 -82.84316 14.62376 3.00091
 -85.67937 23.14155 2.54974
@@ -2293,7 +2293,7 @@ name "Wheelhouse"
 data 8
 Cube.010
 crease 30.0
-texture "laker.png"
+texture "laker-crane.png"
 numvert 69
 78.01813 12.57471 5.37561
 78.01813 15.73629 5.37561
