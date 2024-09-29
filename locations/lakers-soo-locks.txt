@@ -1,0 +1,36 @@
+
+
+------------------------------ UFO -------------------------------
+Latitude:     46.50822226 deg
+Longitude:    -84.36373293 deg
+Altitude ASL: 426.1288 m (1398.0603 ft)
+39Heading:      185.6 deg
+Ground Elev:  174.9988 m (574.1431 ft)
+
+# w090n40/w085n46/1565218.stg
+OBJECT_STATIC -84.36373293 46.50822226 174.9988 174.4
+
+http://maps.google.com/maps?ll=46.5082222622,-84.3637329273&z=12&t=h
+$ fgfs --aircraft=ufo --lat=46.508222 --lon=-84.363733 --altitude=1398.06 --heading=162.6
+
+
+------------------------ Selected Object -------------------------
+Path:         /home/david/Models/soo-rail-bridge/soo-swing-bridge.ac
+Latitude:     46.51329447 deg
+Longitude:    -84.35953605 deg
+Altitude ASL: 181.5378 m (595.5964 ft)
+Heading:      -85.9 deg
+Pitch:        0.0 deg
+Roll:        -0.0 deg
+
+------------------------------------------------------------------
+
+# Lines for stg
+OBJECT_SHARED /home/david/Models/soo-rail-bridge/soo-swing-bridge.ac -84.35953605 46.51329447 181.5378 85.9 0.0 -0.0
+OBJECT_SHARED /home/david/Models/laker/laker-crane.ac -84.36554853 46.50242256 179.1267 91.6 0.0 -0.0
+OBJECT_SHARED /home/david/Models/laker/laker-csl.ac -84.35814398 46.50364891 180.9982 269.3 0.0 -0.0
+
+# Lines for upload form
+OBJECT_SHARED /home/david/Models/soo-rail-bridge/soo-swing-bridge.ac -84.35953605 46.51329447 181.5378 85.9 -20.2 0.0 -0.0
+OBJECT_SHARED /home/david/Models/laker/laker-crane.ac -84.36554853 46.50242256 179.1267 91.6 -1.9 0.0 -0.0
+OBJECT_SHARED /home/david/Models/laker/laker-csl.ac -84.35814398 46.50364891 180.9982 269.3 -0.0 0.0 -0.0

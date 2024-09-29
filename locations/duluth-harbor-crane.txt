@@ -1,0 +1,32 @@
+
+
+------------------------------ UFO -------------------------------
+Latitude:     46.78181492 deg
+Longitude:    -92.11835458 deg
+Altitude ASL: 673.6582 m (2210.1646 ft)
+40Heading:      144.7 deg
+Ground Elev:  322.2694 m (1057.3143 ft)
+
+# w100n40/w093n46/1434163.stg
+OBJECT_STATIC -92.11835458 46.78181492 322.2694 215.3
+
+http://maps.google.com/maps?ll=46.7818149150,-92.1183545793&z=12&t=h
+$ fgfs --aircraft=ufo --lat=46.781815 --lon=-92.118355 --altitude=2210.16 --heading=133.1
+
+
+------------------------ Selected Object -------------------------
+Path:         /home/david/Models/laker/laker-crane.ac
+Latitude:     46.77518412 deg
+Longitude:    -92.09863927 deg
+Altitude ASL: 178.4789 m (585.5607 ft)
+Heading:      -156.0 deg
+Pitch:        0.0 deg
+Roll:        -0.0 deg
+
+------------------------------------------------------------------
+
+# Lines for stg
+OBJECT_SHARED /home/david/Models/laker/laker-crane.ac -92.09863927 46.77518412 178.4789 156.0 0.0 -0.0
+
+# Lines for upload form
+OBJECT_SHARED /home/david/Models/laker/laker-crane.ac -92.09863927 46.77518412 178.4789 156.0 -2.5 0.0 -0.0
