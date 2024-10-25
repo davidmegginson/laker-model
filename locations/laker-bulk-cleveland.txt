@@ -1,0 +1,32 @@
+
+
+------------------------------ UFO -------------------------------
+Latitude:     41.50217240 deg
+Longitude:    -81.71320549 deg
+Altitude ASL: 222.7054 m (730.6607 ft)
+38Heading:      96.4 deg
+Ground Elev:  169.9983 m (557.7370 ft)
+
+# w090n40/w082n41/1614049.stg
+OBJECT_STATIC -81.71320549 41.50217240 169.9983 263.6
+
+http://maps.google.com/maps?ll=41.5021723998,-81.7132054913&z=12&t=h
+$ fgfs --aircraft=ufo --lat=46.998333 --lon=-85.11 --altitude=730.66 --heading=87.6
+
+
+------------------------ Selected Object -------------------------
+Path:         /home/david/Models/laker/laker-bulk.ac
+Latitude:     41.50164412 deg
+Longitude:    -81.71056644 deg
+Altitude ASL: 169.9997 m (557.7419 ft)
+Heading:      -33.3 deg
+Pitch:        0.0 deg
+Roll:        -0.0 deg
+
+------------------------------------------------------------------
+
+# Lines for stg
+OBJECT_SHARED /home/david/Models/laker/laker-bulk.ac -81.71056644 41.50164412 169.9997 33.3 0.0 -0.0
+
+# Lines for upload form
+OBJECT_SHARED /home/david/Models/laker/laker-bulk.ac -81.71056644 41.50164412 169.9997 33.3 0.0 0.0 -0.0
