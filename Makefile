@@ -25,6 +25,8 @@ FILES=laker.ac \
 install: ${FILES}
 	cp ${FILES} ${FG_SCENERY}/Models/Maritime/Civilian/
 
+generate: ${FILES}
+
 view: install
 	fgfs --aircraft=ufo --timeofday=noon --lat=${VIEW_LAT} --lon=${VIEW_LON} --altitude=${VIEW_ALT} --heading=${VIEW_HDG}
 
