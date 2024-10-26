@@ -30,6 +30,15 @@ generate: ${FILES}
 view: install
 	fgfs --aircraft=ufo --timeofday=noon --lat=${VIEW_LAT} --lon=${VIEW_LON} --altitude=${VIEW_ALT} --heading=${VIEW_HDG}
 
+view-dawn: install
+	fgfs --aircraft=ufo --timeofday=dawn --lat=${VIEW_LAT} --lon=${VIEW_LON} --altitude=${VIEW_ALT} --heading=${VIEW_HDG}
+
+view-dusk: install
+	fgfs --aircraft=ufo --timeofday=dusk --lat=${VIEW_LAT} --lon=${VIEW_LON} --altitude=${VIEW_ALT} --heading=${VIEW_HDG}
+
+view-night: install
+	fgfs --aircraft=ufo --timeofday=midnight --lat=${VIEW_LAT} --lon=${VIEW_LON} --altitude=${VIEW_ALT} --heading=${VIEW_HDG}
+
 
 #
 # Variants
