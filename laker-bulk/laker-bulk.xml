@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PropertyList>
 
-  <path>laker.ac</path>
+  <path>laker-bulk.ac</path>
 
   <effect>
     <inherits-from>/Effects/model-combined-deferred</inherits-from>
@@ -10,7 +10,7 @@
       <lightmap-factor><use>/environment/lightmap-factor</use></lightmap-factor>
       <transparent>true</transparent>
       <texture n="3">
-        <image>laker2.png</image>
+        <image>laker-bulk2.png</image>
         <wrap-s>repeat</wrap-s>
       </texture>
     </parameters>
@@ -24,9 +24,9 @@
   <!-- hide objects not in this variant -->
   <animation>
     <type>select</type>
-    <object-name>Bulk load #1</object-name>
-    <object-name>Bulk load #2</object-name>
-    <object-name>Bulk load #3</object-name>
+    <object-name>Hatch #1</object-name>
+    <object-name>Hatch #2</object-name>
+    <object-name>Hatch #3</object-name>
     <object-name>Deck crane</object-name>
     <object-name>Stack CSL</object-name>
     <condition>
